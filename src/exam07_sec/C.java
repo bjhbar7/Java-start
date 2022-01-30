@@ -1,6 +1,6 @@
 package exam07_sec;
 
-import exam07.A;
+import exam07_third.A;
 
 public class C extends A {
 	public C() {
