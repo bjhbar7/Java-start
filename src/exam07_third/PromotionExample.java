@@ -23,7 +23,7 @@ public class PromotionExample {
 		B b1 = d;
 		C c1 = e;
 		
-		//B b3 = e; 컴파일 에러
-		//C c2 = d; 컴파일 에러
+		//B b3 = e; 컴파일 에러 : 상속 관계에 있지 않음
+		//C c2 = d; 컴파일 에러 : 상속 관계에 있지 않음
 	}
 }
